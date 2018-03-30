@@ -1,0 +1,11 @@
+
+# Added by pypaper
+.idea/
+user_paths.py
+*.pyc
+temp_output/
+ep_scripts/__pycache__/
+ep_scripts/matplotlibrc
+*TSWLatexianTemp_*
+ep-paper/ep-paper.pdf
+temp/*
