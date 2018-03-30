@@ -1,6 +1,6 @@
 import os
 
-initials = "###INITIALS###"
+initials = "ep"
 
 ROOT_DIR = os.path.dirname(os.path.abspath(__file__)) + "/"
 PUBLICATION_PATH = ROOT_DIR + "%s_paper/" % initials
