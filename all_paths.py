@@ -11,6 +11,6 @@ MODULE_DATA_PATH = ROOT_DIR + "%s_data/" % initials
 
 # add project specific paths here
 
-# import user_paths as up
-
+import user_paths as up
+PROJECT_LARGE_DATABASE = up.PROJECT_LARGE_DATABASE
 # import user specific paths here
