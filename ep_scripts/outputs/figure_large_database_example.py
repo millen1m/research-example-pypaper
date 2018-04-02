@@ -5,10 +5,6 @@ import all_paths as ap
 import engformat as ef
 import settings as ops
 
-import geofound
-import geofound.settlement
-import geofound.capacity
-
 
 def create(save=0, show=0):
     name = "large_random_database"
